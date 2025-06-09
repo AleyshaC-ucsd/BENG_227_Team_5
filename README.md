@@ -7,7 +7,7 @@ Welcome to the shared codebase for Team 5 in BENG 227.
 
 This repository contains the code developed for the final project.
 
-## Title
+## Project Title
 Spatial and Temporal Analysis of Intraperitoneal Chemotherapy Delivery in Heterogeneous Tumor using Multispecies Microbial Ecosystem Modeling
 
 ## Team Members
@@ -20,7 +20,7 @@ Spatial and Temporal Analysis of Intraperitoneal Chemotherapy Delivery in Hetero
 1. Clone the repository
 
 ```bash
-git clone [https://github.com/AleyshaC-ucsd/BENG_227_Team_5.git]
+git clone https://github.com/AleyshaC-ucsd/BENG_227_Team_5.git
 ```
 
 2. Install all required packages.
@@ -29,7 +29,7 @@ git clone [https://github.com/AleyshaC-ucsd/BENG_227_Team_5.git]
 pip install -r requirements.txt
 ```
 
-3. Run the models and attain spatial and temporal analysis results in Jupyter notebook `BENG227_IP_delivery.ipynp`.
+3. Run the models and attain spatial and temporal analysis results in Jupyter notebook `BENG227_IP_delivery.ipynb`.
 
 
 
